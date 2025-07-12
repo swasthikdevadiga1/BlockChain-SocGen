@@ -1,6 +1,6 @@
 # File Verification on Blockchain
 
-This project demonstrates a simple file verification system using the Ethereum blockchain. It allows users to upload a file's hash to a smart contract and later verify the file's integrity by checking if its hash exists on the blockchain.
+This project demonstrates a simple file verification system using the Ethereum blockchain. It allows users to upload a file's hash to a smart contract and later verify the file's integrity by checking if its hash exists on the blockchain or not.
 
 ## Features
 
@@ -8,6 +8,7 @@ This project demonstrates a simple file verification system using the Ethereum b
 *   **Simple Backend:** A Node.js and Express server to interact with the smart contract.
 *   **User-Friendly Frontend:** A React application for easy file upload and verification.
 *   **Hardhat Environment:** A complete Hardhat setup for local development and testing.
+
 
 *   ![overview](https://github.com/swasthikdevadiga1/BlockChain-SocGen/blob/main/images/Screenshot%20from%202025-07-12%2011-06-47.png)
 
