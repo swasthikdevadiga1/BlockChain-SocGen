@@ -26,8 +26,8 @@ This guide will walk you through setting up and running the project on your loca
 1.  **Clone the Repository**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/swasthikdevadiga1/BlockChain-SocGen
+    cd BlockChain-SocGen
     ```
 
 2.  **Install Dependencies**
